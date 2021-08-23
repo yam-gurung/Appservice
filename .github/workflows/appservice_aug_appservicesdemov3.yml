@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'appservicesdemov3'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8df66783bc4341fb8d00e2fa6d175be3 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_71144febb93d49f8b320b52e4ea2fc0e }}
         package: .
